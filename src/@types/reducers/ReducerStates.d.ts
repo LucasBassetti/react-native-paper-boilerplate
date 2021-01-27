@@ -1,0 +1,3 @@
+interface IReducerStates {
+  user: IUser;
+}
